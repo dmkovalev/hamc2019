@@ -1,5 +1,5 @@
 # Hypotheses and Models in Data Intensive Domains Course, @hamc2019, Masters 1/2
-Faculty of Computational Mathematics and Cybernatics, Moscow State University
+Faculty of Computational Mathematics and Cybernetics, Moscow State University
 
 Classes: Wednesday, 18.30 - 20.00
 
