@@ -3,6 +3,8 @@ Faculty of Computational Mathematics and Cybernetics, Moscow State University
 
 **Classes: Wednesday, 18.30 - 20.00, room 606**
 
+  > **M. Jordan:** *... current focus on doing AI research via the gathering of data, the deployment of “deep learning” infrastructure, and the demonstration of systems that mimic certain narrowly-defined human skills — with little in the way of emerging explanatory principles —  tends to deflect attention from major open problems in classical AI. These problems include the need to bring meaning and reasoning into systems that perform natural language processing, the need to infer and represent causality, the need to develop computationally-tractable representations of uncertainty and the need to develop systems that formulate and pursue long-term goals. These are classical goals in human-imitative AI, but in the current hubbub over the “AI revolution,” it is easy to forget that they are not yet solved.*
+
 ## Course overview
 This is one term course, which provides a survey of the theory and application of methods to work with hypotheses and models in data intensive domains. Topics covered include overview of different approaches to hypotheses and models formulation, representation, tests, logic and probabilistic inference, model quality assessment.
 This course is part of a sequence of courses on Big Data track and is taught for 1st and 2nd year masters students.
