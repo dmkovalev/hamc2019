@@ -33,6 +33,8 @@ Dmitry Kovalev
 ## Assistants
 
 ## Course Materials
+This repository contains lectures and homeworks for @hamc2019. It will be updated as the class progresses.
+
 | Week | Lecture notes | Supplementary materials | Homework | Tests |
 |:------:|:----------|:----------|:----------|-------|
 |1| [Introduction](./lectures/intro.pdf)| [M. Jordan about AI revolution](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) <br> [J. Gray. Fourth Paradigm](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/) <br> [M. Brodie. Understanding Data Science](https://www.researchgate.net/publication/285586313_Understanding_Data_Science_An_Emerging_Discipline_for_Data-Intensive_Discovery) <br> [L. Kalinichenko. Methods and Tools for Hypothesis-Driven Research Support](http://synthesis.ipi.ac.ru/synthesis/staff/dmkovalev/15ia-hypoth.pdf)|||
